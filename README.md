@@ -1,1 +1,1 @@
-Programok pythonban írodtak, kicétel _c ami c++
+Programok pythonban írodtak, kivétel _c ami c++
