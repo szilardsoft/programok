@@ -1,0 +1,5 @@
+app/ChapterEditor_portable.zip filter=lfs diff=lfs merge=lfs -text
+app/ffmpeg_batch_gui_single_convert.zip filter=lfs diff=lfs merge=lfs -text
+app/VideoCutter2026_full.zip filter=lfs diff=lfs merge=lfs -text
+app/ythangtoflac_installer.zip filter=lfs diff=lfs merge=lfs -text
+app/yt_downloader_installer.zip filter=lfs diff=lfs merge=lfs -text
